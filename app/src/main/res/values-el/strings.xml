@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="register">Νέος Χρήστης</string>
+    <string name="password">Κωδικός</string>
+    <string name="username">Όνομα Χρήστη</string>
+    <string name="log_in">Συνδεθείτε</string>
+    <string name="sign_up">Εγγραφείτε</string>
+    <string name="application_admin">Είστε Διαχειριστής της εφαρμογής</string>
+    <string name="admin_code">Κωδικός Διαχειριστή</string>
+    <string name="welcome">Καλώς ήρθατε, %1$s!</string>
+    <string name="log_out">Αποσύνδεση</string>
+    <string name="send_a_new_alert">Αποστολή Νέου Αιτήματος</string>
+    <string name="manage_requests">Διαχείριση Αιτημάτων</string>
+    <string name="settings">Προβολή Στατιστικών</string>
+    <string name="make_a_new_request">Δημιουργία Αιτήματος</string>
+    <string name="unable_to_retrieve_location">Αδυναμία Επανάκτησης Τοποθεσίας</string>
+    <string name="request_uploaded_succesfully">Επιτυχία Μεταφόρτωσης Αιτήματος</string>
+    <string name="failed_to_upload_picture">Αποτυχία Μεταφόρτωσης Φωτογραφίας</string>
+    <string name="event_on_this_location">%1$s στην τοποθεσία %2$s!</string>
+    <string name="date">Ημερομηνία: %1$s</string>
+    <string name="uploaded_by">Από τον χρήστη: %1$s</string>
+    <string name="kms_away">%1$s Χιλιόμετρα Μακρία</string>
+    <string name="earthquake_incidents_number">%1$d Περιστατικά Σεισμών</string>
+    <string name="earthquake_incidents">Περιστατικά Σεισμών</string>
+    <string name="fire_incidents_number">%1$d Περιστατικά Πυρκαγιών</string>
+    <string name="fire_incidents">Περιστατικά Πυρκαγιών</string>
+    <string name="flood_incidents_number">%1$d Περιστατικά Πλυμμήρων</string>
+    <string name="flood_incidents">Περιστατικά Πλυμμήρων</string>
+    <string name="other_incidents_number">%1$d Άγνωστα Περιστατικά</string>
+    <string name="other_incidents">Άγνωστα Περιστατικά</string>
+    <string name="alert_statistics">Στατιστικά Συναγερμών</string>
+    <string name="alert_type">Τύπος Κινδύνου</string>
+    <string name="photo">Φωτογραφία</string>
+    <string name="take_picture">Βγάλτε Φωτογραφία</string>
+    <string name="submit_request">Υποβολή Αιτήματος</string>
+    <string name="approve">Έγκριση</string>
+    <string name="reject">Απόρριψη</string>
+    <string name="more_requests_in_the_area">Περισσότερα Αιτήματα στην περιοχή</string>
+    <string name="flood">Πλυμμήρα</string>
+    <string name="fire">Πυρκαγιά</string>
+    <string name="earthquake">Σεισμός</string>
+    <string name="other">Άγνωστος Κίνδυνου</string>
+    <string-array name="type_list">
+        <item>Πλυμμήρα</item>
+        <item>Πυρκαγιά</item>
+        <item>Σεισμός</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string name="title">ΠΡΟΣΟΧΗ! Κίνδυνος στην περιοχή σας!</string>
+    <string name="content">%1$s στην τοποθεσία σας: %2$s.</string>
+    <string name="other_message">Εστία κινδύνου: %1$sχιλιόμετρα!
+                                \n Ώρα συναγερμού: %2$s
+                                \n Αναζητήστε αφαλές καταφύγιο και επικοινωνήστε με τις τοπικές αρχές.</string>
+    <string name="fire_message">Εστία πυρκαγιάς: %1$sχιλιόμετρα!
+                                \n Ώρα συναγερμού: %2$s
+                                \n Αναζητήστε αφαλές καταφύγιο και επικοινωνήστε με τις τοπικές αρχές.
+                                \n \u2022 Παραμείνετε ψύχραιμοι.
+                                \n \u2022 Πηγαίνετε σε μία περιοχή μακρία από βλάστηση.
+                                \n \u2022 Εάν βρίσκετε σπίτι,παραμείνετε μέσα,κλείστε παράθυρα και πόρτες χωρίς να κλειδώσετε και γεμίστε νιπτήρες,νεροχύτες και μπανιέρες με κρύο νερό. </string>
+    <string name="flood_message">Εστία πλυμμήρας: %1$sχιλιόμετρα!
+                                \n Ώρα συναγερμού: %2$s
+                                \n Αναζητήστε αφαλές καταφύγιο και επικοινωνήστε με τις τοπικές αρχές.
+                                \n \u2022 Παραμείνετε ψύχραιμοι.
+                                \n \u2022 Αναζητήστε υψηλό σημείο.
+                                \n \u2022 Μην επιχειρήσετε να περπατήσετε, να κολυμπήσετε ή να οδηγήσετε στα νερά της πλυμμήρας.</string>
+    <string name="earthquake_message">Εστία σεισμού: %1$sχιλιόμετρα!
+                                    \n Ώρα συναγερμού: %2$s
+                                    \n Αναζητήστε αφαλές καταφύγιο και επικοινωνήστε με τις τοπικές αρχές.
+                                    \n \u2022 Παραμείνετε ψύχραιμοι.
+                                    \n \u2022 Προετοιμαστείτε για μετασεισμούς.
+                                    \n \u2022 Μείνετε έξω απο κτήρια που έχουν υποστεί ζημιές.
+                                    \n \u2022 Μείνετε μακριά σπό ακτές, διότι είναι πιθανή η εμφάνιση τσουνάμι.</string>
+
+</resources>

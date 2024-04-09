@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124759525660",
+    "project_id": "smartalert-a5fac",
+    "storage_bucket": "smartalert-a5fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124759525660:android:ed9e54952acb1c821152d9",
+        "android_client_info": {
+          "package_name": "com.example.smartalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATBvc1W_Qf7qvr65BekJKsiGijGsPp7MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

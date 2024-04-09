@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="register">Create New Account</string>
+    <string name="password">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="application_admin">Application Admin?</string>
+    <string name="admin_code">Admin Code</string>
+    <string name="welcome">Welcome, %1$s!</string>
+    <string name="log_out">Log Out</string>
+    <string name="send_a_new_alert">Send A New Alert</string>
+    <string name="manage_requests">Manage Requests</string>
+    <string name="settings">Statistics</string>
+    <string name="make_a_new_request">Make A New Request</string>
+    <string name="unable_to_retrieve_location">Unable to retrieve location</string>
+    <string name="request_uploaded_succesfully">Request uploaded successfully!</string>
+    <string name="failed_to_upload_picture">Failed to Upload Picture!</string>
+    <string name="event_on_this_location">%1$s in %2$s!</string>
+    <string name="date">Date: %1$s</string>
+    <string name="uploaded_by">Uploaded By: %1$s</string>
+    <string name="kms_away">%1$s Kilometers Away</string>
+    <string name="earthquake_incidents_number">%1$d Earthquake Incidents</string>
+    <string name="earthquake_incidents">Earthquake Incidents</string>
+    <string name="fire_incidents_number">%1$d Fire Incidents</string>
+    <string name="fire_incidents">Fire Incidents</string>
+    <string name="flood_incidents_number">%1$d Flood Incidents</string>
+    <string name="flood_incidents">Flood Incidents</string>
+    <string name="other_incidents_number">%1$d Other Incidents</string>
+    <string name="other_incidents">Other Incidents</string>
+    <string name="alert_statistics">Alert Statistics</string>
+    <string name="alert_type">Alert Type</string>
+    <string name="photo">Photo</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="more_requests_in_the_area">More Requests in the Area</string>
+    <string name="flood">Flood</string>
+    <string name="fire">Fire</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="other">Other</string>
+    <string name="title">WARNING! New alert located in your area!</string>
+    <string name="content">There is a %1$s in your area: %2$s. </string>
+    <string name="fire_message">Distance from your location: %1$skm!
+                                \nTime of Alert: %2$s
+                                \nSeek for safe refuge and call the local authorities.
+                                \n \u2022 Stay calm.
+                                \n \u2022 Go to an area clear of vegetation.
+                                \n \u2022 If in home, stay inside, keep doors and windows closed, but unlocked and fill sinks and bathtubs with cold water.</string>
+    <string name="flood_message">Distance from your location: %1$skm!
+                                \nTime of Alert: %2$s
+                                \n Seek for safe refuge and call the local authorities.
+                                \n \u2022 Stay calm.
+                                \n \u2022 Try to head for higher ground.
+                                \n \u2022 Never try to walk, swim or drive through flood water.</string>
+    <string name="earthquake_message">Distance from your location: %1$skm!
+                                    \nTime of Alert: %2$s
+                                    \n Seek for safe refuge and call the local authorities.
+                                    \n \u2022 Stay calm.
+                                    \n \u2022 Stay out of damaged buildings.
+                                    \n \u2022 Stay away from beaches. Tsunamis sometimes hit after the ground has stopped shaking.</string>
+    <string name="other_message">Distance from your location: %1$skm!
+                                \nTime of Alert: %2$s
+                                \n Seek for safe refuge and call the local authorities.</string>
+    <string-array name="type_list">
+        <item>Flood</item>
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
