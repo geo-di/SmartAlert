@@ -13,7 +13,7 @@ This is a **university project**. The app is designed to **alert users about nea
 The app also features a **statistics page** for tracking disaster reports and responses.  
 
 ## Technology Stack  
-- **Android Studio** – Primary development environment.  
+- **Android Studio** – Primary development environment with **target sdk 34**.  
 - **Java** – Main programming language for the app.  
 - **Firebase Firestore / Realtime Database** – For storing and syncing alert requests.  
 - **Google Maps API** – For location-based alert requests and disaster mapping.
